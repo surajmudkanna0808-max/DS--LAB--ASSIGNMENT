@@ -1,0 +1,93 @@
+===== CONTACT MANAGEMENT SYSTEM =====
+1. Insert Contact at Beginning
+2. Insert Contact at End
+3. Delete Contact by Name
+4. Search Contact
+5. Display All Contacts
+6. Exit
+Enter your choice: 1
+Enter Name: Mansvi
+Enter Phone Number: 1234567890
+Contact inserted at beginning successfully.
+
+===== CONTACT MANAGEMENT SYSTEM =====
+1. Insert Contact at Beginning
+2. Insert Contact at End
+3. Delete Contact by Name
+4. Search Contact
+5. Display All Contacts
+6. Exit
+Enter your choice: 2
+Enter Name: Sanika
+Enter Phone Number: 1234506789
+Contact inserted at end successfully.
+
+===== CONTACT MANAGEMENT SYSTEM =====
+1. Insert Contact at Beginning
+2. Insert Contact at End
+3. Delete Contact by Name
+4. Search Contact
+5. Display All Contacts
+6. Exit
+Enter your choice: 5
+
+----- Contact List -----
+Name  : Mansvi
+Phone : 1234567890
+------------------------
+Name  : Sanika
+Phone : 1234506789
+------------------------
+
+===== CONTACT MANAGEMENT SYSTEM =====
+1. Insert Contact at Beginning
+2. Insert Contact at End
+3. Delete Contact by Name
+4. Search Contact
+5. Display All Contacts
+6. Exit
+Enter your choice: 4
+Enter name to search: Sanika
+
+Contact Found!
+Name  : Sanika
+Phone : 1234506789
+
+===== CONTACT MANAGEMENT SYSTEM =====
+1. Insert Contact at Beginning
+2. Insert Contact at End
+3. Delete Contact by Name
+4. Search Contact
+5. Display All Contacts
+6. Exit
+Enter your choice: 3
+Enter name to delete: Mansvi
+Contact deleted successfully.
+
+===== CONTACT MANAGEMENT SYSTEM =====
+1. Insert Contact at Beginning
+2. Insert Contact at End
+3. Delete Contact by Name
+4. Search Contact
+5. Display All Contacts
+6. Exit
+Enter your choice: 5
+
+----- Contact List -----
+Name  : Sanika
+Phone : 1234506789
+------------------------
+
+===== CONTACT MANAGEMENT SYSTEM =====
+1. Insert Contact at Beginning
+2. Insert Contact at End
+3. Delete Contact by Name
+4. Search Contact
+5. Display All Contacts
+6. Exit
+Enter your choice: 6
+All allocated memory freed.
+Exiting program...
+
+
+=== Code Execution Successful ===
